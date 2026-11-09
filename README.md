@@ -1,15 +1,9 @@
 <div align="center">
-  # Prithwish Mukherjee
-
-  **Tech Lead · Google DeepMind**
-
   Building reliability, evaluation & serving infrastructure for Gemini
 
   [LinkedIn](https://www.linkedin.com/in/prithm) ·
   [Google Scholar](https://scholar.google.com/citations?user=MJD9l4sAAAAJ&hl=en) ·
-  [Website](https://prithm.github.io) ·
-  [Hacker Noon](https://hackernoon.com/u/pmukherjee) ·
-  [Instagram](https://www.instagram.com/low.key.traveller)
+  [Website](https://prithm.github.io)
 </div>
 
 Nearly a decade across Google and LinkedIn, working on model serving infrastructure, latency & cost optimization, and evaluation frameworks for conversational AI and LLM-powered products — with 6 U.S. patent applications along the way.
