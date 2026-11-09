@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://prithm.github.io/assets/photo.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Prithwish Mukherjee" />
-
   # Prithwish Mukherjee
 
   **Tech Lead · Google DeepMind**
